@@ -1,4 +1,4 @@
-# **Theft Detection Algorithm using Video Data**
+# **Theft Detection Algorithm using Video Data (Shoplifiting)**
 
 This repository contains the code and documentation for building a theft detection algorithm using video data, specifically focusing on shoplifting scenarios. The algorithm is designed to classify video frames or clips as containing shoplifting or not containing shoplifting.
 
